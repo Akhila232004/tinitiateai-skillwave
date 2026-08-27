@@ -1,0 +1,17 @@
+repoName: design
+courses:
+  vue-js:
+    label: Vue JS
+    iconPath: design/course-icons/vue-js.svg
+  sql-server:
+    label: SQL Server
+    iconPath: design/course-icons/sql-server.webp
+  java:
+    label: Java
+    iconPath: design/course-icons/java.png
+  next-js:
+    label: Next JS
+    iconPath: design/course-icons/next-js.svg
+  ai:
+    label: AI
+    iconPath: design/course-icons/ai.png
