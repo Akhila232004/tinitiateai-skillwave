@@ -1,0 +1,29 @@
+name: tinitiateai-skillwave
+
+version: 1
+
+content:
+  interview:
+    enabled: true
+    path: interview
+
+  courses:
+    enabled: true
+    path: courses
+
+  slideshow:
+    enabled: true
+    path: slideshow
+
+  videos:
+    enabled: true
+    path: videos
+
+  audio:
+    enabled: true
+    path: audio
+
+design:
+  enabled: true
+  colour: design/colour.yaml
+  icons: design/icon.yaml
