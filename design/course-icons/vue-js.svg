@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-labelledby="title">
+  <title>Vue JS</title>
+  <rect width="96" height="96" rx="24" fill="#0f172a"/>
+  <path d="M20 20h16l12 20 12-20h16L48 76 20 20z" fill="#42b883"/>
+  <path d="M32 20h12l4 7 4-7h12L48 48 32 20z" fill="#35495e"/>
+</svg>
