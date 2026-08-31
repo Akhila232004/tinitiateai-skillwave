@@ -1,0 +1,5 @@
+repoName: dashboard
+templateFiles:
+  - path: dashboard/cards/text.yaml
+  - path: dashboard/cards/image-text.yaml
+  - path: dashboard/cards/image.yaml
