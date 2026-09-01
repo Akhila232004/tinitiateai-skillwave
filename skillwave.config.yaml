@@ -2,6 +2,29 @@ name: tinitiateai-skillwave
 
 version: 1
 
+company:
+  name: Tinitiate
+
+  legalName: TINITIATE Technologies Pvt Ltd.
+
+  shortName: Tinitiate
+
+  description: Tinitiate AI Solutions helps learners grow with practical technology learning.
+
+  website: https://tinitiate.com
+
+  contactEmail: contact@tinitiateai.com
+
+  branding:
+    logo: branding/logo.png
+    logoLight: branding/logo-light.png
+    logoMark: branding/logo-mark.png
+
+  social:
+    linkedin: https://www.linkedin.com/company/tinitiate/
+    x: https://x.com/TinitiateAI
+    instagram: https://www.instagram.com/tinitiate.ai/
+
 content:
   interview:
     enabled: true
@@ -23,7 +46,21 @@ content:
     enabled: true
     path: audio
 
+  cbt:
+    enabled: true
+    path: cbt
+
+  dashboard:
+    enabled: true
+    path: dashboard
+
+  ticker:
+    enabled: true
+    path: news-ticker
+
 design:
   enabled: true
+
   colour: design/colour.yaml
+
   icons: design/icon.yaml
