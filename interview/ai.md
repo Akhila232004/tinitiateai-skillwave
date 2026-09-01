@@ -109,5 +109,4 @@ Level: Intermediate
 - It helps build and train neural networks.
 - It is widely used in Deep Learning.
 
-(tf.__version__)
-```
+
