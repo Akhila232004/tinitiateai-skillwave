@@ -1,15 +1,10 @@
 # React State Basics
-
-Demo slideshow deck fetched from the GitHub content repository.
-
----
-
 ## What is State?
 
 - State is data owned by a component
 - State changes trigger UI updates
 - Use state for interactive and dynamic behavior
-![React State](https://dotnettrickscloud.blob.core.windows.net/article/react/5420250725113801.png)
+![React State](images/react-state.png)
 
 ---
 
