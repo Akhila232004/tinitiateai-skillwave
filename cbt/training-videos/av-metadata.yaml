@@ -1,11 +1,12 @@
 repoName: cbt/training-videos
+
 items:
   - slug: full-stack-orientation-demo
     title: Full Stack Orientation Demo
     summary: Demo training-video collection showing how GitHub-hosted metadata is fetched into the website UI.
     speaker: Tinitiate Demo
-    playlistUrl: https://www.youtube.com/
-    embedUrl: https://www.youtube.com/embed/ysz5S6PUM-U
+    playlistUrl: https://www.youtube.com/watch?v=YLpCPo0FDtE&list=PL9ooVrP1hQOGTHk2auXsk3cyqRBbbsQ6l
+    embedUrl: https://www.youtube.com/embed/YLpCPo0FDtE
     tags:
       - orientation
       - full-stack
