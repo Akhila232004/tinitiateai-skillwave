@@ -1,9 +1,11 @@
 # React State Basics
+
 ## What is State?
 
 - State is data owned by a component
 - State changes trigger UI updates
 - Use state for interactive and dynamic behavior
+
 ![React State](images/react-state.png)
 
 ---
