@@ -5,24 +5,22 @@ items:
     title: Full Stack Orientation Demo
     summary: Demo training-video collection showing how GitHub-hosted metadata is fetched into the website UI.
     speaker: Tinitiate Demo
-    playlistUrl: https://www.youtube.com/watch?v=YLpCPo0FDtE&list=PL9ooVrP1hQOGTHk2auXsk3cyqRBbbsQ6l
-    embedUrl: https://www.youtube.com/embed/YLpCPo0FDtE
+    playlistUrl: https://www.youtube.com/
+    embedUrl: https://www.youtube.com/embed/ysz5S6PUM-U
     tags:
       - orientation
       - full-stack
       - demo
     notesPath: cbt/training-videos/collections/full-stack-orientation-demo.md
 
-
   - slug: java-full-course
     title: Java Full Course
     summary: Complete Java programming course covering fundamental concepts and practical programming topics.
     speaker: Tinitiate
     playlistUrl: https://www.youtube.com/watch?v=BGTx91t8q50&t=15217s
-    embedUrl: https://www.youtube.com/embed/BGTx91t8q50
+    embedUrl: https://www.youtube.com/embed/BGTx91t8q50?start=15217
     tags:
       - java
       - programming
       - full-course
       - development
-   
