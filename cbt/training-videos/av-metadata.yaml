@@ -16,7 +16,7 @@ items:
     title: Java Full Course
     summary: Complete Java programming course covering fundamental concepts and practical programming topics.
     speaker: Tinitiate
-    playlistUrl: https://www.youtube.com/watch?v=BGTx91t8q50&t=15217s
+    playlistUrl: https://www.youtube.com/watch?v=BGTx91t8q50
     embedUrl: https://www.youtube.com/embed/BGTx91t8q50?start=15217
     tags:
       - java
