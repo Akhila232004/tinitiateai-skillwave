@@ -1,8 +1,6 @@
 # Artificial Intelligence (AI)
 
 ## What is Artificial Intelligence?
-Level: Beginner  
-
 ### Answer
 - Artificial Intelligence (AI) is the simulation of human intelligence by machines.
 - AI systems can learn, reason, solve problems, and make decisions.
@@ -12,8 +10,6 @@ Level: Beginner
 ---
 
 ## What is Machine Learning?
-Level: Beginner  
-
 ### Answer
 - Machine Learning is a subset of AI.
 - It allows systems to learn from data without explicit programming.
@@ -23,8 +19,6 @@ Level: Beginner
 ---
 
 ## What is Deep Learning?
-Level: Intermediate  
-
 ### Answer
 - Deep Learning is a subset of Machine Learning.
 - It uses neural networks with multiple layers.
@@ -34,8 +28,6 @@ Level: Intermediate
 ---
 
 ## What is Natural Language Processing (NLP)?
-Level: Beginner  
-
 ### Answer
 - NLP enables computers to understand human language.
 - It is used in chatbots, translation apps, and voice assistants.
@@ -45,8 +37,6 @@ Level: Beginner
 ---
 
 ## What are Neural Networks?
-Level: Intermediate  
-
 ### Answer
 - Neural networks are inspired by the human brain.
 - They consist of interconnected neurons.
@@ -56,8 +46,6 @@ Level: Intermediate
 ---
 
 ## What is supervised learning?
-Level: Beginner  
-
 ### Answer
 - Supervised learning uses labeled data.
 - The model learns input-output relationships.
@@ -67,8 +55,6 @@ Level: Beginner
 ---
 
 ## What is unsupervised learning?
-Level: Beginner  
-
 ### Answer
 - Unsupervised learning works with unlabeled data.
 - The model identifies hidden patterns.
@@ -79,8 +65,6 @@ Level: Beginner
 ---
 
 ## What is Generative AI?
-Level: Intermediate  
-
 ### Answer
 - Generative AI creates text, images, audio, and code.
 - It learns patterns from large datasets.
@@ -90,8 +74,6 @@ Level: Intermediate
 ---
 
 ## What is Computer Vision?
-Level: Beginner  
-
 ### Answer
 - Computer Vision enables machines to understand images and videos.
 - It is used in facial recognition and self-driving cars.
@@ -102,8 +84,6 @@ Level: Beginner
 ---
 
 ## What is TensorFlow?
-Level: Intermediate  
-
 ### Answer
 - TensorFlow is an open-source AI framework.
 - It helps build and train neural networks.
