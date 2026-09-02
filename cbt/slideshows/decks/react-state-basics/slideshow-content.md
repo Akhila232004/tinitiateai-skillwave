@@ -9,7 +9,7 @@ Demo slideshow deck fetched from the GitHub content repository.
 - State is data owned by a component
 - State changes trigger UI updates
 - Use state for interactive and dynamic behavior
-<img width="962" height="724" alt="image" src="https://github.com/user-attachments/assets/8a57a417-83e5-457f-a9e9-be60a9ae8860" />
+![React State](https://dotnettrickscloud.blob.core.windows.net/article/react/5420250725113801.png)
 
 ---
 
